@@ -338,7 +338,7 @@ Advantages:
 # 👩‍💻 Developer
 
 **Ana Rashid**
-
+AI INTERNSHIP
 BS Information Technology Student  
 University of Management and Technology (UMT)
 
