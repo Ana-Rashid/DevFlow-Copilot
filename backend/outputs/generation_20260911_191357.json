@@ -1,0 +1,9 @@
+{
+    "model": "llama3.1:latest",
+    "created_at": "20260911_191357",
+    "source_requirement": "Build a Library Management System where librarians manage books, students borrow books, and admins manage users.",
+    "validation_result": {
+        "valid": false,
+        "error": "5 validation errors for ProjectSpecification\nproject_summary\n  Field required [type=missing, input_value={'name': 'Library Managem...d admins in a library.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nfeatures\n  Field required [type=missing, input_value={'name': 'Library Managem...d admins in a library.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nuser_stories\n  Field required [type=missing, input_value={'name': 'Library Managem...d admins in a library.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nassumptions\n  Field required [type=missing, input_value={'name': 'Library Managem...d admins in a library.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nopen_questions\n  Field required [type=missing, input_value={'name': 'Library Managem...d admins in a library.'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+    }
+}

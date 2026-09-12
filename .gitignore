@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+outputs/*.json
+
+node_modules/
+
+.streamlit/
